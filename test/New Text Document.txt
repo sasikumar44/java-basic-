@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 helllllodsfadsfsa
 dsafkjdsjfa
+=======
+asdsamgadfbmndf cx,nmfds
+>>>>>>> 387717a47d412ee11e2d7a0a0f9fbba533c7810e
